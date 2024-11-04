@@ -1,6 +1,6 @@
 > # 🆕 Upgraded version is now available!
 > An upgraded and more modern version with full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker is now available,
- check out [github.com/atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture)
+ check out [T.me/Makavael)
 
 <br /><br />
 
@@ -274,11 +274,11 @@ View all screenshots [here](https://github.com/atulmy/atulmy.github.io/tree/mast
 
 ## Authors
 
-- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
+- Atul Yadav - [GitHub](https://github.com/Makavael) · [Twitter](https://twitter.com/Makavael)
 
 ## Collaborators
 
-- Hossein Nedaee - [GitHub](https://github.com/hosseinnedaee)
+- Hossein Nedaee - [GitHub](https://github.com/Makavael)
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
 
 ## Resources and Inspirations
@@ -292,7 +292,7 @@ View all screenshots [here](https://github.com/atulmy/atulmy.github.io/tree/mast
 
 ## Hire me
 
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [Rootuserapache@gmail.com](cardsvirus@gmail.com)
 
 ## Donate
 
@@ -302,10 +302,10 @@ If you liked this project, you can donate to support it ❤️
 
 Thank you for donating:
 
-- [Oleg Serbin](https://github.com/oserbin)
+- [Oleg Serbin](https://github.com/Makavael)
 
 ## License
 
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
+Copyright (c) 2018 Atul Yadav http://github.com/Makavael
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
