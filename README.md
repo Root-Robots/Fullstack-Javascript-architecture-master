@@ -1,6 +1,6 @@
 > # 🆕 Upgraded version is now available!
 > An upgraded and more modern version with full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker is now available,
- check out [T.me/Makavael)
+ check out [https://T.me/Makavael)
 
 <br /><br />
 
